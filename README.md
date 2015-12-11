@@ -1,4 +1,5 @@
-StackFizzBuzz.py 
+StackFizzBuzz
+=============
 (c) 2015 Tim Babb
 
 The [FizzBuzz problem](https://en.wikipedia.org/wiki/Fizz_buzz#Programming_interviews) 
